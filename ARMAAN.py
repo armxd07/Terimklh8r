@@ -9,7 +9,7 @@ import json
 from colorama import init, Fore, Style, Back
 from queue import Queue
 from datetime import datetime, timedelta
-ID=input(' ID: ')
+ID=input(' 7721708766,8087539929: ')
 # Initialize colorama for colored output
 init(autoreset=True)
 
